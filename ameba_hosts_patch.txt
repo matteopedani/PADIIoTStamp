@@ -1,0 +1,34 @@
+diff --git a/release/package_padiiotstamp_index.json b/release/package_padiiotstamp_index.json
+index ffb8153..9ab1b4d 100644
+--- a/release/package_padiiotstamp_index.json
++++ b/release/package_padiiotstamp_index.json
+@@ -35,7 +35,7 @@
+             {
+               "packager": "realtek",
+               "name": "ameba_tools",
+-              "version": "1.0.8"
++              "version": "1.0.9"
+             }
+           ]
+         }
+@@ -58,6 +58,20 @@
+               "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
+               "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
+               "size": "11572"
++            },
++            {
++              "host":"x86_64-pc-linux-gnu",
++              "archiveFileName": "openocd_tools-0.0.1.tar.gz",
++              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
++              "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
++              "size": "11572"
++            },
++            {
++              "host":"i686-pc-linux-gnu",
++              "archiveFileName": "openocd_tools-0.0.1.tar.gz",
++              "url": "https://github.com/gtalusan/PADIIoTStamp/raw/master/release/openocd_tools-0.0.1.tar.gz",
++              "checksum": "SHA-256:69b05f075118c39f26281e15055ae0d0cd64b188daeca724386bf9fb7dcaf3e7",
++              "size": "11572"
+             }
+           ]
+         }

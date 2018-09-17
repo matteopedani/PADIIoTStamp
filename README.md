@@ -8,7 +8,7 @@ The package simply builds off of the [Realtek Ameba Arduino](http://www.amebaiot
 
 Add:
 ```
-https://github.com/gtalusan/PADIIoTStamp/raw/master/release/package_padiiotstamp_index.json
+https://github.com/matteopedani/PADIIoTStamp/raw/master/release/package_padiiotstamp_index.json
 ```
 to your Arduino IDE and install the padiiotstamp package.
 
